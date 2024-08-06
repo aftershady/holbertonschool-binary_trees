@@ -18,7 +18,7 @@ size_t helper(const binary_tree_t *tree, size_t size)
 }
 /**
  * binary_tree_size - give the height of a node of a binary tree
- * @tree: pointer to the node of the binary treebi	
+ * @tree: pointer to the node of the binary treebi
  * Return: the height of binary tree
  */
 size_t binary_tree_size(const binary_tree_t *tree)
