@@ -4,7 +4,7 @@
 /**
  * binary_tree_uncle - give the uncle of the node
  * @node: node given
- * Return : the uncle of the node
+ * Return: the uncle of the node
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 {
